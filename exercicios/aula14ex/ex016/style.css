@@ -1,8 +1,8 @@
-@charset 'UTF-8';
+@charset "UTF-8";
 
 body {
     background-color: rgb(70, 142, 236);
-    font: nomral 15pt Arial;
+    font: normal 15pt Arial;
 }
 
 
